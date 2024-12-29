@@ -1,0 +1,4 @@
+user_id,name,account_number,dob,city,contact_number,email,address,balance,status
+1,Anshi,1132576048,2004-11-06,Rewa,9039107855,sdivyanshi611@gmail.com,"Ward 8 Khuj Aitla",3000.00,Active
+2,Baby123,7525977446,2000-10-10,ujjain,9868357918,cutiee@123gmail.com,"jai mahakal",2500.00,Deactive
+3,"Ranu Mondal",4788599145,1990-10-05,Panvel,9039561856,ranum5@gmail.com,"Vaishali Nagar",50000.00,Active
